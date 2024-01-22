@@ -1,0 +1,44 @@
+{
+  "steps": [
+    {
+      "questionId": 0,
+      "text": "Which is the most populous continent?",
+      "answers": [
+        { "answerId": 0, "answerText": "Asia", "isRight": true },
+        { "answerId": 1, "answerText": "Africa" },
+        { "answerId": 2, "answerText": "Europe" },
+        { "answerId": 3, "answerText": "North America" }
+      ]
+    },
+    {
+      "questionId": 1,
+      "text": "What is the capital of New Zealand?",
+      "answers": [
+        { "answerId": 0, "answerText": "Wellington", "isRight": true },
+        { "answerId": 1, "answerText": "Auckland" },
+        { "answerId": 2, "answerText": "Hamilton" },
+        { "answerId": 3, "answerText": "Whangarei" }
+      ]
+    },
+    {
+      "questionId": 2,
+      "text": "In which country is Mount Everest?",
+      "answers": [
+        { "answerId": 0, "answerText": "Nepal", "isRight": true },
+        { "answerId": 1, "answerText": "Switzerland" },
+        { "answerId": 2, "answerText": "Bhutan" },
+        { "answerId": 3, "answerText": "Tajikistan" }
+      ]
+    },
+    {
+      "questionId": 3,
+      "text": "What ocean is the largest and deepest?",
+      "answers": [
+        { "answerId": 0, "answerText": "The Pacific Ocean", "isRight": true },
+        { "answerId": 1, "answerText": "The Atlantic Ocean" },
+        { "answerId": 2, "answerText": "The Indian Ocean" },
+        { "answerId": 3, "answerText": "The Arctic Ocean" }
+      ]
+    }
+  ]
+}
